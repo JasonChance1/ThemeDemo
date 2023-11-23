@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    自定义属性-->
+    <attr name="theme_background" format="color|reference"/>
+    <attr name="theme_textColor" format="color|reference"/>
+</resources>
+
+
